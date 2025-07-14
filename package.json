@@ -1,0 +1,1 @@
+{"name":"RecipeOrganizer","version":"0.0.1","private":true,"scripts":{"start":"expo start"},"dependencies":{"@react-native-async-storage/async-storage":"^2.2.0","expo":"^53.0.19","react-native":"0.80.1","react-native-paper":"^5.14.5","react-native-safe-area-context":"^5.5.2"}}
